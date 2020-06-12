@@ -8,7 +8,7 @@ If you want to make changes and Improvise it, please go ahead.
 
 ## USAGE
 ~~~
-git clone https://github.com/Delson704557/Night-Filter
+https://github.com/Delson704557/Night-Filter.git
 ~~~
 
 ~~~

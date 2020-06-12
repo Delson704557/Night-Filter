@@ -30,7 +30,7 @@ do
         echo "***NOTE:"
         echo "***1.) To exit Press CTRL C   -----DO NOT PRESS CTRL Z to exit----"
         echo "***2.) If you have PRESSED CTRL Z , the program will not exit properly"
-        echo "***3.) But Once you Restart your Computer, Your Screen will be back to Normal"
+        echo "***3.) But Once you Logout your Computer, Your Screen will be back to Normal"
         redshift -l 18.969049:72.821182 -t $value:$value
         killall redshift
         echo " "

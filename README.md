@@ -1,5 +1,5 @@
 # Night-Filter
-The Script Change the Intensity of your Screen to soothe your Eyes.
+The Script Changes the Intensity of your Screen to soothe your Eyes.
 
 
 If you like it do give a Star.

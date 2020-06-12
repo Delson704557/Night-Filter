@@ -13,7 +13,7 @@ dpkg -s $RAND &> /dev/null
 if [ $? -eq 0 ]; then
     echo "Package  is installed!"
 else
-    sudo apt-get install redshift-gtk -y
+    sudo apt-get install redshift -y
     sudo apt-get install redshift-gtk -y
     clear
     echo "Successfully Installed"

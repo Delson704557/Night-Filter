@@ -28,8 +28,8 @@ read -p "Enter value: "  value
 do
     if [ "$value" -ge 2000 ] && [ "$value" -le 6500 ]; then
         echo "***NOTE:"
-        echo "***1.) To exit Press CTRL C  "
-        echo "***2.) If you have PRESSED CTRL Z , type fg %1,  "
+        echo "***1.) To exit Press CTRL + C  "
+        echo "***2.) If you have PRESSED CTRL Z , type fg %1, and then press Ctrl + C  "
         redshift -l 18.969049:72.821182 -t $value:$value
         killall redshift
         echo " "
